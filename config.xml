@@ -7,7 +7,7 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name>farm animal for kids/name>
+  <name>farm animal for kids </name>
 
   <description>
       first android app by aka , noni and babychoo 
@@ -17,6 +17,6 @@
       Akka Noni Babychoo
   </author>
 
-  <icon src="icon.png" />
+  <icon src = "icon.png" />
 
 </widget>
